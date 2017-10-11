@@ -2,14 +2,6 @@
 var socket = io.connect('localhost:3000');
 var app = angular.module('app', []);
 
-// Service to fetch some data..
-app.factory('dataServ', ['$http',function($http) {
-	return {
-		get : function(q) {
-			return $http.get('/data/' + q);
-		}
-	}
-}]);
 
 // App controller
 app.controller('appController', function($scope,$compile) {
