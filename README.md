@@ -1,8 +1,8 @@
 # Forter Funny Bot Chat Room Challenge
 
 ## Start The Server
-- 'npm install'
-  'node app.js'
+- `npm install`
+- `node app.js`
 
 
 # Functionality
