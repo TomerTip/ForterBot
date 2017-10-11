@@ -1,0 +1,45 @@
+{
+	"response_1": [
+		"Ha! I know it! The answer is: ",
+		"Simple: ",
+		"That's easy: ",
+		"Every child knows that the answer is: ",
+		"This is well known! ",
+		"", "", "", "", ""
+	],
+
+	"response_2": [
+		"Seems familiar... ",
+		"Deja-vu... this is the answer: ",
+		"mmm yea, the answer is: ",
+		"You should pay more attention: ",
+		"I believe in second chances: ",
+		"", ""
+	],
+
+	"response_3": [
+		"For the last time, the answer is: ",
+		"Just so you know, computer entities are known for their lack of patience. ",
+		"<i>(Taking a deep breath)</i> The answer is: ",
+		"<i>(Trying to hide its feeling to shutdown the server)</i> The answer is: ",
+		"OK... read my virtual lips: "
+	],
+
+	"response_4": [
+		"<strong>(*Spammer detected!* Calling the police while answering unsuspiciously.)</strong> The answer is: ",
+		"Listen kid you messed with the wrong bot! ",
+		"<i>(Reluctant)</i> The answer is: ",
+		"<strong>(About to call system.shutdown() )</strong> The answer is: ",
+		"<strong>(Looking up 'how to get rid of pranksters online?')</strong> The answer is: "
+	],
+
+	"response_5": [
+		"<strong>IGNORING.</strong>",
+		"<strong>Don't worry, the cops are on the way...</strong>",
+		"<strong>(<i>LOOKING ANGRILY STRIGHT IN YOUR EYES.</i>)</strong>",
+		"<strong>I'm sure google will appreciate your waste of time.</strong>",
+		"<strong>NO COMMENT.</strong>",
+		"<i>(Cursing silently)</i>"
+	]
+
+}

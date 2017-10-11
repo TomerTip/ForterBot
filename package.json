@@ -1,0 +1,12 @@
+{
+  "name": "tomertip",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.6.1",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
