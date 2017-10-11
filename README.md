@@ -24,6 +24,7 @@ In this challenge I used the following technologies and libreries:
 	
 2. Backend:
 	- Node.js
+	- Express
 	- sockets.io
 	
 ## sockets.io
